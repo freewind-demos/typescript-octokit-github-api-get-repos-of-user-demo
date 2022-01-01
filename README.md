@@ -1,18 +1,9 @@
-TypeScript Hello World Demo
+TypeScript Octokit Github Api Get Repos of User Demo
 ===========================
+
+如何获取一个用户名下所有的repos
 
 ```
 npm install
 npm run demo
 ```
-
-Note:
-
-`esModuleInterop` is recommended to set to `true`,
-since we can have consistent importing syntax with babel,
-always use:
-
-```
-import some from 'some'
-```
-
